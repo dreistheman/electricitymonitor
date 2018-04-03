@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Electricity Monitor</string>
+    <string name="activate">Activate</string>
+    <string name="deactivate">Deactivate</string>
+</resources>
