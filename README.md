@@ -1,5 +1,5 @@
 # ElectricityMonitor
-An Android-based Mobile Application
+An Android-based Application
 
 - Check the availability status of electricity and be alerted with changes!
 
